@@ -38,6 +38,86 @@
             <property name="address9" label="Excel Address 9" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
             <property name="field10" label="Record Field 10" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
             <property name="address10" label="Excel Address 10" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field11" label="Record Field 1" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address12" label="Excel Address 1" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field12" label="Record Field 2" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address12" label="Excel Address 2" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field13" label="Record Field 3" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address13" label="Excel Address 3" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field14" label="Record Field 4" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address14" label="Excel Address 4" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field15" label="Record Field 5" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address15" label="Excel Address 5" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field16" label="Record Field 6" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address16" label="Excel Address 6" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field17" label="Record Field 7" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address17" label="Excel Address 7" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field18" label="Record Field 8" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address18" label="Excel Address 8" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field19" label="Record Field 9" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address19" label="Excel Address 9" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field20" label="Record Field 10" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address20" label="Excel Address 10" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field21" label="Record Field 1" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address21" label="Excel Address 1" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field22" label="Record Field 2" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address22" label="Excel Address 2" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field23" label="Record Field 3" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address23" label="Excel Address 3" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field24" label="Record Field 4" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address24" label="Excel Address 4" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field25" label="Record Field 5" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address25" label="Excel Address 5" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field26" label="Record Field 6" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address26" label="Excel Address 6" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field27" label="Record Field 7" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address27" label="Excel Address 7" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field28" label="Record Field 8" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address28" label="Excel Address 8" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field29" label="Record Field 9" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address29" label="Excel Address 9" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field30" label="Record Field 10" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address30" label="Excel Address 10" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field31" label="Record Field 1" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address31" label="Excel Address 1" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field32" label="Record Field 2" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address32" label="Excel Address 2" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field33" label="Record Field 3" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address33" label="Excel Address 3" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field34" label="Record Field 4" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address34" label="Excel Address 4" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field35" label="Record Field 5" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address35" label="Excel Address 5" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field36" label="Record Field 6" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address36" label="Excel Address 6" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field37" label="Record Field 7" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address37" label="Excel Address 7" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field38" label="Record Field 8" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address38" label="Excel Address 8" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field39" label="Record Field 9" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address39" label="Excel Address 9" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field40" label="Record Field 10" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address40" label="Excel Address 10" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field41" label="Record Field 1" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address41" label="Excel Address 1" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field42" label="Record Field 2" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address42" label="Excel Address 2" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field43" label="Record Field 3" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address43" label="Excel Address 3" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field44" label="Record Field 4" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address44" label="Excel Address 4" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field45" label="Record Field 5" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address45" label="Excel Address 5" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field46" label="Record Field 6" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address46" label="Excel Address 6" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field47" label="Record Field 7" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address47" label="Excel Address 7" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field48" label="Record Field 8" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address48" label="Excel Address 8" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field49" label="Record Field 9" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address49" label="Excel Address 9" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
+            <property name="field50" label="Record Field 10" datasource="apex://FieldPicklist" type="String" description="Pick a record field to be filled from the Excel Cell" />
+            <property name="address50" label="Excel Address 10" type="String" description="Specify cell address in Excel file, e.g., 'A1' (uses first worksheet) or 'Sheet1!A1'" />
             <supportedFormFactors>
                 <supportedFormFactor type="Small" />
                 <supportedFormFactor type="Large" />
